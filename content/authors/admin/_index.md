@@ -44,6 +44,4 @@ profiles:
     label: Check out my CV
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Kassandra "Kass" Fernandez is a Graduate Research Assistant at the University of Florida in Gainesville, FL, where they are pursuing their PhD in Engineering Education. Their research explores undergraduate perceptions of STEM mentorship within student organizations & near peer mentorship between undergraduate student mentors & K-12 student mentees within educational out-of-school time STEM programs. Outside of their research, they are the President of the Policy Advocacy in Science and Engineering (PASE) student organization and Vice President of the Engineering Education Graduate Student Council at the University of Florida.
