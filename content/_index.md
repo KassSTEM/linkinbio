@@ -1,6 +1,6 @@
 ---
 title: 'Home'
-date: 2023-10-24
+date: 2024-10-11
 type: landing
 
 design:
@@ -22,13 +22,13 @@ sections:
       # Need a custom icon?
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
-        - text: Read my latest paper on LLMs
-          icon: academicons/arxiv
-          url: https://arxiv.org/abs/2304.01852
-        - text: Watch my new YouTube video to achieve 20x productivity
-          icon: brands/youtube
-          url: https://youtube.com
-        - text: Connect with me on LinkedIn
+        - text: Add me on LinkedIn (@kassfedz)
           icon: brands/linkedin
-          url: https://linkedin.com
+          url: https://www.linkedin.com/in/kassfedz/
+        - text: Check out my Website
+          icon: assets/media/icons/browser.svg
+          url: https://kassstem.github.io/
+        - text: Follow along at FIE 2024
+          icon: assets/media/icons/presentation.svg
+          url: https://kassstem.github.io/
 ---
