@@ -1,6 +1,6 @@
 ---
 title: 'LinkInBio'
-date: 2024-10-11
+date: 2024-10-12
 type: landing
 permalink: https://kassstem.github.io/linkinbio/
 
@@ -11,7 +11,7 @@ design:
       filename: bg-hue.svg
 
 sections:
-  - block: biography
+  - block: resume-biography
     content:
       # The user's folder name in content/authors/
       username: admin
