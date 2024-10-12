@@ -30,8 +30,6 @@ profiles:
   - icon: at-symbol
     url: 'mailto:kfernandez1@ufl.edu'
     label: Send me an e-mail
-  - icon: brands/x
-    url: https://twitter.com/KassSTEM
   - icon: brands/linkedin
     url: https://www.linkedin.com/kassfedz
   - icon: brands/google-scholar
