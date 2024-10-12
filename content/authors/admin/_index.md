@@ -37,7 +37,7 @@ profiles:
   - icon: brands/google-scholar
     url: https://scholar.google.com/citations?user=EwzeybIAAAAJ
   - icon: brands/orcid
-    url: https://www.orcid.com/0000-0003-1101-5219
+    url: https://www.orcid.org/0000-0003-1101-5219
   - icon: academicons/cv
     # url: uploads/resume.pdf # Use this to link to a PDF of your resume/CV (upload it to `static/uploads/resume.pdf`)
     url: https://kassstem.github.io/cv/
