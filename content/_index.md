@@ -1,5 +1,5 @@
 ---
-title: 'Home'
+title: 'LinkInBio'
 date: 2024-10-11
 type: landing
 permalink: https://kassstem.github.io/linkinbio/
