@@ -21,7 +21,7 @@ role: Graduate Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Department of Engineering Education - University of Florida
+  - name: Engineering Education - University of Florida
     url: https://www.eng.ufl.edu/eed/
 
 # Social Networking
