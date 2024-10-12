@@ -6,7 +6,7 @@ title: Kass Fernandez
 name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Kass
+first_name: Kassandra
 last_name: Fernandez
 
 # Status emoji
@@ -21,7 +21,7 @@ role: Graduate Research Assistant
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Engineering Education - University of Florida
+  - name: University of Florida
     url: https://www.eng.ufl.edu/eed/
 
 # Social Networking
