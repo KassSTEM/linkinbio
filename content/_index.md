@@ -23,7 +23,7 @@ sections:
       # Need a custom icon?
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
-        - text: Add me on LinkedIn (@kassfedz)
+        - text: Add me on LinkedIn
           icon: brands/linkedin
           url: https://www.linkedin.com/in/kassfedz/
         - text: Check out my Website
