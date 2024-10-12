@@ -11,7 +11,7 @@ design:
       filename: bg-hue.svg
 
 sections:
-  - block: resume-biography
+  - block: biography
     content:
       # The user's folder name in content/authors/
       username: admin
