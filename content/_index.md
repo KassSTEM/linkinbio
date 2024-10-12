@@ -27,9 +27,9 @@ sections:
           icon: brands/linkedin
           url: https://www.linkedin.com/in/kassfedz/
         - text: Check out my Website
-          icon: assets/media/icons/browser.svg
+          icon: "custom/browser"
           url: https://kassstem.github.io/
         - text: Follow along at FIE 2024
-          icon: assets/media/icons/presentation.svg
+          icon: "custom/presentation"
           url: https://kassstem.github.io/
 ---
