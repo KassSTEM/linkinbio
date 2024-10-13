@@ -23,13 +23,25 @@ sections:
       # Need a custom icon?
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
+        - text: Send me an Email
+          icon: email
+          url: mailto:kfernandez1@ufl.edu
         - text: Add me on LinkedIn
           icon: brands/linkedin
           url: https://www.linkedin.com/in/kassfedz/
         - text: Check out my Website
           icon: "custom/browser"
           url: https://kassstem.github.io/
-        - text: Follow along at FIE 2024
+        - text: Read my FIE 2024 Paper
+          icon: "custom/paper"
+          url: https://github.com/KassSTEM/KassSTEM.github.io/blob/bb2d026368c1f07b55e0e27bb813f61e503db906/files/an_exploratory_study_on_post-secondary_stem_mentorship_within_student_organizations.pdf
+        - text: View my FIE 2024 Presentation
           icon: "custom/presentation"
-          url: https://kassstem.github.io/
+          url: 
+        - text: Check out the EQuIPD Website
+          icon: "custom/EQuIPD"
+          url: https://equipd.mse.ufl.edu/
+        - text: Check out the GGEE Website
+          icon: "custom/GGEE"
+          url: https://faculty.eng.ufl.edu/ggee/
 ---
