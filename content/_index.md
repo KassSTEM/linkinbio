@@ -24,7 +24,7 @@ sections:
       # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
       buttons:
         - text: Send me an Email
-          icon: email
+          icon: "custom/email"
           url: mailto:kfernandez1@ufl.edu
         - text: Add me on LinkedIn
           icon: brands/linkedin
