@@ -34,14 +34,14 @@ sections:
           url: https://kassstem.github.io/
         - text: Read my FIE 2024 Paper
           icon: "custom/paper"
-          url: https://github.com/KassSTEM/KassSTEM.github.io/blob/bb2d026368c1f07b55e0e27bb813f61e503db906/files/an_exploratory_study_on_post-secondary_stem_mentorship_within_student_organizations.pdf
+          url: https://github.com/KassSTEM/KassSTEM.github.io/blob/c0c0317f9a64efc05917d9b0b08aac963183afac/files/an_exploratory_study_on_post-secondary_stem_mentorship_within_student_organizations.pdf
         - text: View my FIE 2024 Presentation
           icon: "custom/presentation"
-          url: 
+          url: https://github.com/KassSTEM/KassSTEM.github.io/blob/c0c0317f9a64efc05917d9b0b08aac963183afac/files/FIE_2024_Fernandez_and_Ruzycki_Slides.pdf
         - text: Check out the EQuIPD Website
-          icon: "custom/EQuIPD"
+          icon: "custom/browser"
           url: https://equipd.mse.ufl.edu/
         - text: Check out the GGEE Website
-          icon: "custom/GGEE"
+          icon: "custom/browser"
           url: https://faculty.eng.ufl.edu/ggee/
 ---
