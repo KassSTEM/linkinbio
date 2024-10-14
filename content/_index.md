@@ -35,13 +35,13 @@ sections:
         - text: Read my FIE 2024 Paper (Mobile)
           icon: "custom/paper"
           url: https://github.com/KassSTEM/KassSTEM.github.io/blob/c0c0317f9a64efc05917d9b0b08aac963183afac/files/an_exploratory_study_on_post-secondary_stem_mentorship_within_student_organizations.pdf
-        - text: View my FIE 2024 Presentation (Mobile)
+        - text: View my FIE 2024 Slides (Mobile)
           icon: "custom/presentation"
           url: https://github.com/KassSTEM/KassSTEM.github.io/blob/075e0178ce6ee4f685e5b8113f03d75b1bc0357e/files/FIE_2024_Fernandez_and_Ruzycki_Slides.pdf
         - text: Read my FIE 2024 Paper (Desktop)
           icon: "custom/paper"
           url: https://kassstem.github.io/publications/2024-10-14-mentorship-in-student-organizations#paper
-        - text: View my FIE 2024 Presentation (Desktop)
+        - text: View my FIE 2024 Slides (Desktop)
           icon: "custom/presentation"
           url: https://kassstem.github.io/publications/2024-10-14-mentorship-in-student-organizations#pptx
         - text: Check out the EQuIPD Website
