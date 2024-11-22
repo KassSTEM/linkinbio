@@ -1,6 +1,6 @@
 ---
 title: 'LinkInBio'
-date: 2024-10-12
+date: 2024-11-22
 type: landing
 permalink: https://kassstem.github.io/linkinbio/
 
@@ -32,18 +32,18 @@ sections:
         - text: Check out my Website
           icon: "custom/browser"
           url: https://kassstem.github.io/
+        - text: Read my ASEE 2024 Paper (Mobile)
+          icon: "custom/paper"
+          url: https://github.com/KassSTEM/KassSTEM.github.io/blob/2b4fa8658a2acf599b99ac853f425f92e63280a2/files/examining-stemm-mentorship-within-student-organizations-in-higher-education-through-a-critical-lens.pdf
+        - text: Read my ASEE 2024 Paper (Desktop)
+          icon: "custom/paper"
+          url: https://kassstem.github.io/publications/2024-06-24-STEMM-mentorship#paper
         - text: Read my FIE 2024 Paper (Mobile)
           icon: "custom/paper"
           url: https://github.com/KassSTEM/KassSTEM.github.io/blob/c0c0317f9a64efc05917d9b0b08aac963183afac/files/an_exploratory_study_on_post-secondary_stem_mentorship_within_student_organizations.pdf
-        - text: View my FIE 2024 Slides (Mobile)
-          icon: "custom/presentation"
-          url: https://github.com/KassSTEM/KassSTEM.github.io/blob/075e0178ce6ee4f685e5b8113f03d75b1bc0357e/files/FIE_2024_Fernandez_and_Ruzycki_Slides.pdf
         - text: Read my FIE 2024 Paper (Desktop)
           icon: "custom/paper"
           url: https://kassstem.github.io/publications/2024-10-14-mentorship-in-student-organizations#paper
-        - text: View my FIE 2024 Slides (Desktop)
-          icon: "custom/presentation"
-          url: https://kassstem.github.io/publications/2024-10-14-mentorship-in-student-organizations#pptx
         - text: Check out the EQuIPD Website
           icon: "custom/browser"
           url: https://equipd.mse.ufl.edu/
