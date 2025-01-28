@@ -1,6 +1,6 @@
 ---
 title: 'LinkInBio'
-date: 2024-11-22
+date: 2025-01-28
 type: landing
 permalink: https://kassstem.github.io/linkinbio/
 
@@ -29,6 +29,9 @@ sections:
         - text: Add me on LinkedIn
           icon: brands/linkedin
           url: https://www.linkedin.com/in/kassfedz/
+        - text: Add me on BlueSky
+          icon: brands/bluesky
+          url: https://bsky.app/profile/kassstem.bsky.social
         - text: Check out my Website
           icon: "custom/browser"
           url: https://kassstem.github.io/
