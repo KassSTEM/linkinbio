@@ -1,6 +1,6 @@
 ---
 title: 'LinkInBio'
-date: 2025-01-28
+date: 2025-04-12
 type: landing
 permalink: https://kassstem.github.io/linkinbio/
 
@@ -35,18 +35,9 @@ sections:
         - text: Check out my Website
           icon: "custom/browser"
           url: https://kassstem.github.io/
-        - text: Read my ASEE 2024 Paper (Mobile)
+        - text: Read my ASEE 2025 Paper
           icon: "custom/paper"
-          url: https://github.com/KassSTEM/KassSTEM.github.io/blob/2b4fa8658a2acf599b99ac853f425f92e63280a2/files/examining-stemm-mentorship-within-student-organizations-in-higher-education-through-a-critical-lens.pdf
-        - text: Read my ASEE 2024 Paper (Desktop)
-          icon: "custom/paper"
-          url: https://kassstem.github.io/publications/2024-06-24-STEMM-mentorship#paper
-        - text: Read my FIE 2024 Paper (Mobile)
-          icon: "custom/paper"
-          url: https://github.com/KassSTEM/KassSTEM.github.io/blob/c0c0317f9a64efc05917d9b0b08aac963183afac/files/an_exploratory_study_on_post-secondary_stem_mentorship_within_student_organizations.pdf
-        - text: Read my FIE 2024 Paper (Desktop)
-          icon: "custom/paper"
-          url: https://kassstem.github.io/publications/2024-10-14-mentorship-in-student-organizations#paper
+          url: https://kassstem.github.io/publications/2025-06-22-cultivating-future-engineers-through-mentoring-experiences
         - text: Check out the EQuIPD Website
           icon: "custom/browser"
           url: https://equipd.mse.ufl.edu/
