@@ -31,7 +31,7 @@ profiles:
     url: 'mailto:kfernandez1@ufl.edu'
     label: Send me an e-mail
   - icon: brands/linkedin
-    url: https://www.linkedin.com/kassfedz
+    url: https://www.linkedin.com/in/kassfedz
   - icon: brands/google-scholar
     url: https://scholar.google.com/citations?user=EwzeybIAAAAJ
   - icon: brands/orcid
