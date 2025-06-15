@@ -120,12 +120,6 @@ async function initializeContent() {
       linksGrid.appendChild(a);
     });
 
-    // Set support button
-    const supportBtn = document.getElementById('support-button');
-    supportBtn.href = config.support.url;
-    supportBtn.textContent = config.support.buttonText;
-    supportBtn.ariaLabel = config.support.buttonText;
-
     // Set contact button (footer) using config.contact only
     const contactBtn = document.getElementById('contact-button');
     if (config.contact && config.contact.url && config.contact.buttonText) {
