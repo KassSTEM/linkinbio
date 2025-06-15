@@ -97,7 +97,7 @@ async function initializeContent() {
 
     Object.entries(config.social).forEach(([platform, url]) => {
       if (url) {
-        const a = document.createElementNS('http://www.w3.org/2000/svg', 'a');
+        const a = document.createElement('a');
         a.href = url;
         a.target = '_blank';
         a.rel = 'noopener noreferrer';
