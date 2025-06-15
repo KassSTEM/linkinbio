@@ -76,7 +76,7 @@ h1 {
 
 .link-button:hover, .support-button:hover {
   background-color: var(--button-hover-bg-color);
-  color: var(--button-text-color);
+  color: var(--button-hover-text-color);
 }
 
 .bio p {
