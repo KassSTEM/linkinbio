@@ -15,7 +15,7 @@
 body {
   color: var(--text-color);
   background-color: var(--background-color);
-  background-image: linear-gradient(135deg, rgb(213, 44, 0), rgb(226, 150, 136), rgb(255, 255, 255) 45%, rgb(255, 255, 255), rgb(255, 255, 255) 55%, rgb(210, 127, 164), rgb(162, 2, 98)) !important;
+  background-image: linear-gradient(135deg, rgb(213, 44, 0), rgb(226, 150, 136) , rgb(210, 127, 164) , rgb(162, 2, 98)) !important;
 }
 
 .bio-container {
@@ -66,7 +66,7 @@ h1 {
 }
 
 .link-button, .support-button {
-  background-color: transparent;
+  background-color: var(--button-bg-color);
   color: var(--text-color);
   border: 2px solid var(--border-color);
   padding: 1rem 2rem;

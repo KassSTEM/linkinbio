@@ -3,11 +3,11 @@
   --link-color: #92DDC8;
   --link-hover-color: #83BCA9;
   --text-color: #E0E0E0;
-  --button-bg-color: #92DDC8;
+  --button-bg-color: #29A087;
   --button-text-color: #E0E0E0;
-  --button-hover-bg-color: #83BCA9;
+  --button-hover-bg-color: #29A087;
   --button-hover-text-color: #E0E0E0;
-  --background-color: #121212;
+  --background-color: #29A087;
   --border-color: #3C4043;
   --accent-color:  #92DDC8;
 }
@@ -18,7 +18,7 @@ body {
 }
 
 .bio-container {
-  background: #444444;
+  background: #121212;
   border-radius: 0.5rem;
 }
 
@@ -65,7 +65,7 @@ h1 {
 }
 
 .link-button, .support-button {
-  background-color: transparent;
+  background-color: var(--button-bg-color);
   color: var(--text-color);
   border: 2px solid var(--border-color);
   padding: 1rem 2rem;
