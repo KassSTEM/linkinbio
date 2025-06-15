@@ -40,8 +40,8 @@
     "url": ""
   },
   "contact": {
-    "buttonText": "",
-    "url": ""
+    "buttonText": "Contact Me ✉️",
+    "url": "mailto:kfernandez1@ufl.ed
   },
   "theme": "vibrant",
   "gravatarHovercard": false
