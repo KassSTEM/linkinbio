@@ -97,7 +97,7 @@ async function initializeContent() {
 
     Object.entries(config.social).forEach(([platform, url]) => {
       if (url) {
-        const a = document.createElement('a');
+        const a = document.createElementNS('a');
         a.href = url;
         a.target = '_blank';
         a.rel = 'noopener noreferrer';
