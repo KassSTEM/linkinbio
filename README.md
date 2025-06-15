@@ -1,3 +1,3 @@
 Welcome to my personal linkinbio website!
 
-The HugoBlox template used for this website can be found here: [Link In Bio Theme](https://github.com/HugoBlox/theme-link-in-bio)
+The template used for this website can be found here: [Connect Theme](https://github.com/mathetos/mathetos.github.io)

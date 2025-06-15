@@ -1,0 +1,34 @@
+{
+  "profile": {
+    "name": "Kass Fernandez",
+    "tagline": "Graduate Research Assistant",
+    "gravatarEmail": "kassfedz@gmail.com",
+    "bio": "Kassandra (Kass) Fernandez is a Graduate Research Assistant at the University of Florida in Gainesville, FL, where they are pursuing their PhD in Engineering Education. Their research explores undergraduate perceptions of STEM mentorship within student organizations & near peer mentorship between undergraduate student mentors & K-12 student mentees within educational out-of-school time STEM programs. Outside of their research, they are the President of the Policy Advocacy in Science and Engineering (PASE) student organization and Vice President of the Engineering Education Graduate Student Council at the University of Florida."
+  },
+  "social": {
+    "email": "mailto:kfernandez1@ufl.edu",
+    "linkedin": "https://www.linkedin.com/in/kassfedz/",
+    "github": "https://github.com/KassSTEM",
+    "bluesky": "https://bsky.app/profile/kassstem.bsky.social"
+  },
+  "links": [
+    {
+      "title": "Check out my Website",
+      "url": "https://kassstem.github.io/"
+    },
+    {
+      "title": "Read my ASEE 2025 Paper",
+      "url": "https://kassstem.github.io/publications/2025-06-22-cultivating-future-engineers-through-mentoring-experiences"
+    },
+    {
+      "title": "Check out the EQuIPD Website",
+      "url": "https://equipd.mse.ufl.edu/"
+    },
+    {
+      "title": "Check out the GGEE Website",
+      "url": "https://faculty.eng.ufl.edu/ggee/"
+    },
+  ],
+  "theme": "monochrome-dark",
+  "gravatarHovercard": false
+}
