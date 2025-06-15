@@ -1,6 +1,6 @@
 // Theme selection and dynamic loading
 (async function() {
-  const availableThemes = ['bulky', 'kubrik', 'bright', 'dark', 'minimal', 'monochrome-dark', 'monochrome-light'];
+  const availableThemes = ['bulky', 'kubrik', 'bright', 'dark', 'minimal', 'dark-mint', 'vibrant'];
   const params = new URLSearchParams(window.location.search);
   let theme = params.get('theme');
   
@@ -17,7 +17,7 @@
   
   // Normalize and validate
   if (!theme || !availableThemes.includes(theme)) {
-    theme = 'monochrome-dark'; // Fallback to monochrome-dark if config.json fails or theme is invalid
+    theme = 'minimal'; // Fallback to minimal if config.json fails or theme is invalid
   }
   
   // Create and append the theme link immediately
