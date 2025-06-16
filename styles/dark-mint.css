@@ -19,7 +19,7 @@ body {
 
 .bio-container {
   background: #121212;
-  border-radius: 0.5rem;
+  border-radius: 1rem;
 }
 
 .bio-container::before {
