@@ -20,7 +20,7 @@ body {
 
 .bio-container {
   background: #FFFFFF;
-  border-radius: 0.5rem;
+  border-radius: 0.75rem;
 }
 
 .bio-container::before {
@@ -82,7 +82,7 @@ h1 {
 
 .bio p {
   border: 2px solid var(--border-color);
-  border-radius: 0.5rem; 
+  border-radius: 0.75rem; 
   padding: 1rem;
 }
 
