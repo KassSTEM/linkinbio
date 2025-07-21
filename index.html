@@ -84,26 +84,12 @@
   <link rel="preload" href="styles/core.css" as="style">
   <link id="core-stylesheet" rel="stylesheet" href="styles/core.css">
   <!-- Theme stylesheet will be injected by main.js -->
-  <script src="crypto-js.min.js" defer></script>
   <script src="main.js" defer></script>
-  <script src="https://www.gravatar.com/js/hovercards/hovercards.min.js"></script>
-  <script>
-  ( function() {
-    function init() {
-      Gravatar.init();
-    }
-    if( document.readyState !== 'loading') {
-      init();
-    } else {
-      document.addEventListener( 'DOMContentLoaded', init );
-    }
-  } )();
-  </script>
 </head>
 <body>
   <main class="bio-container" role="main">
     <header class="profile-header" role="banner">
-      <img id="gravatar-image" alt="Kass Fernandez's profile image" class="hovercard" width="196" height="196" />	
+      <img id="profile-image" src="profile.png" alt="Kass Fernandez's profile image" class="hovercard" width="196" height="196" />	
       <h1 id="profile-name" aria-label="Name"></h1>
       <p id="profile-tagline" class="tagline" aria-label="Tagline"></p>
       <nav class="social-icons" aria-label="Social media links">
@@ -140,23 +126,5 @@
       </div>
     </footer>
   </main>
-  <script>
-  (function() {
-    function init() {
-      if (typeof Gravatar === 'undefined') {
-        return;
-      }
-      if (typeof Gravatar.init !== 'function') {
-        return;
-      }
-      Gravatar.init('body');
-    }
-    if (document.readyState !== 'loading') {
-      init();
-    } else {
-      document.addEventListener('DOMContentLoaded', init);
-    }
-  })();
-  </script>
 </body>
 </html>
