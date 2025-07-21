@@ -33,7 +33,7 @@ body {
   z-index: -1;
 }
 
-#gravatar-image {
+#profile-image {
   border: 3px solid var(--accent-color);
 }
 
