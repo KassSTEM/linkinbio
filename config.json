@@ -17,22 +17,18 @@
       "url": "https://kassstem.github.io/"
     },
     {
-      "title": "Read my ASEE 2025 Paper",
+      "title": "Read my Latest Paper",
       "url": "https://kassstem.github.io/publications/2025-06-22-cultivating-future-engineers-through-mentoring-experiences"
     },
     {
-      "title": "Check out the EQuIPD Website",
+      "title": "Visit the EQuIPD Website",
       "url": "https://equipd.mse.ufl.edu/"
     },
     {
-      "title": "Check out the GGEE Website",
+      "title": "Visit the GGEE Website",
       "url": "https://faculty.eng.ufl.edu/ggee/"
     }
   ],
-    "blog": {
-    "rssFeed": "",
-    "wordCount": 75
-  },
   "contact": {
     "buttonText": "Send Me an Email",
     "url": "mailto:kfernandez1@ufl.edu"
