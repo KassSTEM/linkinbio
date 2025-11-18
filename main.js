@@ -1,6 +1,6 @@
 // Theme selection and dynamic loading
 (async function() {
-  const availableThemes = ['bulky', 'kubrik', 'bright', 'dark', 'minimal', 'dark-mint', 'vibrant'];
+  const availableThemes = ['bulky', 'kubrik', 'bright', 'dark', 'minimal', 'dark-mint', 'vibrant', 'mossy'];
   const params = new URLSearchParams(window.location.search);
   let theme = params.get('theme');
   
