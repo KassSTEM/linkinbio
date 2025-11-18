@@ -13,7 +13,7 @@
 }
 
 body {
-  background: var(--background-color);
+  background: var(--text-color);
 }
 
 .bio-container {
