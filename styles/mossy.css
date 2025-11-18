@@ -4,12 +4,12 @@
   --link-hover-color: #0D1B12;
   --text-color: #0D1B12;
   --button-bg-color: #2D5016;
-  --button-text-color: #E0EADE;
+  --button-text-color: #F5F7F3;
   --button-hover-bg-color: #0D1B12;
-  --button-hover-text-color: #E0EADE;
-  --background-color: #E0EADE;
+  --button-hover-text-color: #7AB069;
+  --background-color: #F5F7F3;
   --border-color: #2D5016;
-  --accent-color: #0D1B12;
+  --accent-color: #2D5016;
 }
 
 body {
@@ -17,7 +17,7 @@ body {
 }
 
 .bio-container {
-  background: #E0EADE;
+  background: var(--background-color);
   border-radius: 1rem;
 }
 
