@@ -1,4 +1,4 @@
-/* Vibrant Theme: Only color, font, and visual style rules */
+/* Mossy Theme: Only color, font, and visual style rules */
 :root {
   --link-color: #2D5016;
   --link-hover-color: #0D1B12;
@@ -14,7 +14,7 @@
 
 body {
   color: var(--text-color);
-  background-color: var(--background-color);
+  background: var(--background-color);
 }
 
 .bio-container {
