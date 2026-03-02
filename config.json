@@ -2,7 +2,7 @@
   "profile": {
     "name": "Kass Fernandez",
     "tagline": "Graduate Research Assistant",
-    "bio": "Kassandra (Kass) Fernandez is a Graduate Research Assistant at the University of Florida in Gainesville, FL, where they are pursuing their PhD in Engineering Education. Their research explores undergraduate perceptions of STEM mentorship within student organizations & near peer mentorship between undergraduate student mentors & K-12 student mentees within educational out-of-school time STEM programs."
+    "bio": "Kassandra (Kass) Fernandez is a PhD candidate in Engineering Education at the University of Florida. They are currently recruiting participants for their dissertation study, “Mentorship Matters: Development of a Conceptual Framework of Effective Mentoring Activities”. STEM undergraduate students in the US aged 18 or older who are engaged in mentorship are invited to participate."
   },
   "social": {
     "googlescholar": "https://scholar.google.com/citations?user=EwzeybIAAAAJ&hl=en",
@@ -12,6 +12,10 @@
     "linkedin": "https://www.linkedin.com/in/kassstem/"
   },
   "links": [
+    {
+      "title": "Join my Dissertation Study",
+      "url": "https://go.ufl.edu/mentorshipmatters"
+    },
     {
       "title": "Check out my Website",
       "url": "https://kassstem.github.io/"
@@ -27,6 +31,10 @@
     {
       "title": "Visit the GGEE Website",
       "url": "https://faculty.eng.ufl.edu/ggee/"
+    },
+    {
+      "title": "Visit the SNAP Website",
+      "url": "https://snapcoalition.org/"
     }
   ],
   "contact": {
